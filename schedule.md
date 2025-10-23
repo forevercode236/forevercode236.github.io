@@ -8,24 +8,21 @@
    2. Pages
    3. File and Folder Organization
    <br>
-   
    **Thursday 23rd**
    1. Dates for each section to be complete
    2. New HTML
    3. New CSS
    4. Validators
-      
 </details>
 
 <details>
    <summary> October 27 - 31 </summary>
    <br>
-
+   
    **Tuesday 28th**
    1. Topic 1
    2. Topic 2
    3. Topic 3
-   
    **Thursday 30th**
    1. Topic 1
    2. Topic 2
@@ -35,12 +32,11 @@
 <details>
    <summary> November 3 - 7 </summary>
    <br>
-
+   
    **Tuesday 4th**
    1. Topic 1
    2. Topic 2
    3. Topic 3
-   
    **Thursday 6th**
    1. Topic 1
    2. Topic 2
@@ -71,12 +67,10 @@
    1. Topic 1
    2. Topic 2
    3. Topic 3
-   
    **Thursday 20th**
    1. Topic 1
    2. Topic 2
    3. Topic 3
-
 </details>
 
 <details>
@@ -87,12 +81,10 @@
    1. Topic 1
    2. Topic 2
    3. Topic 3
-   
    **Thursday 27th**
    1. Topic 1
    2. Topic 2
    3. Topic 3
-
 </details>
 
 <details>
@@ -103,13 +95,11 @@
    1. Topic 1
    2. Topic 2
    3. Topic 3
-   
    **Thursday 4th** (*last day of class*)
    1. Topic 1
    2. Topic 2
    3. Topic 3
-
 </details>
 
-[Academic Calendar - Fall 2025](https://www.highpoint.edu/registrar/academic-calendars/ {target="_blank"})
+[Academic Calendar Fall 2025](https://www.highpoint.edu/registrar/academic-calendars{target=_blank})
 
