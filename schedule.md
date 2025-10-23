@@ -49,7 +49,8 @@
 
 <details>
    <summary> November 10 - 14 </summary>
-
+   <br>
+   
    **Tuesday 11th**
    1. Topic 1
    2. Topic 2
@@ -64,7 +65,8 @@
 
 <details>
    <summary> November 17 - 21 </summary>
-
+   <br>
+   
    **Tuesday 18th**
    1. Topic 1
    2. Topic 2
@@ -79,22 +81,24 @@
 
 <details>
    <summary> November 24 - 28 </summary>
-
-**Tuesday 25th**
-1. Topic 1
-2. Topic 2
-3. Topic 3
-
-**Thursday 27th**
-1. Topic 1
-2. Topic 2
-3. Topic 3
+   <br>
+   
+   **Tuesday 25th**
+   1. Topic 1
+   2. Topic 2
+   3. Topic 3
+   
+   **Thursday 27th**
+   1. Topic 1
+   2. Topic 2
+   3. Topic 3
 
 </details>
 
 <details>
    <summary> December 1 - 5 </summary>
-
+   <br>
+   
    **Tuesday 2nd**
    1. Topic 1
    2. Topic 2
