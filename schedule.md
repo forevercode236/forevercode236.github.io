@@ -9,10 +9,11 @@
    3. File and Folder Organization
    <br>
    **Thursday 23rd**
-   1. Dates for each section to be complete
-   2. New HTML
-   3. New CSS
-   4. Validators
+   1. Last day to drop with a grade of W (Friday Oct, 24th)
+   2. Dates for each section to be complete
+   3. New HTML
+   4. New CSS
+   5. Validators
 </details>
 
 <details>
@@ -78,10 +79,10 @@
    <br>
    
    **Tuesday 25th**
-   1. Topic 1
+   1. Thanksgiving Holiday - Wed November 26th - 28th
    2. Topic 2
    3. Topic 3
-   **Thursday 27th**
+   **Thursday 27th** (No Class)
    1. Topic 1
    2. Topic 2
    3. Topic 3
@@ -96,9 +97,16 @@
    2. Topic 2
    3. Topic 3
    **Thursday 4th** (*last day of class*)
-   1. Topic 1
+   1. Final Project Presentations
    2. Topic 2
    3. Topic 3
+</details>
+
+<details>
+   <summary>Final Exam Schedule</summary>
+   - Dec 5th - Reading Day
+   - Dec 6th - 12th - Exam Week
+   - Dec 8th - Noon to 3pm - Final Exam 
 </details>
 
 [Academic Calendar Fall 2025](https://www.highpoint.edu/registrar/academic-calendars/)
