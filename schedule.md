@@ -101,5 +101,5 @@
    3. Topic 3
 </details>
 
-  [Academic Calendar Fall 2025](https://www.highpoint.edu/registrar/academic-calendars/ target="_blank")
+  [Academic Calendar Fall 2025](https://www.highpoint.edu/registrar/academic-calendars/ target=_blank)
 
