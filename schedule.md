@@ -32,8 +32,8 @@
          - [w3schools Color Tutorial](https://www.w3schools.com/colors/default.asp)
          - [w3schools Color Picker](https://www.w3schools.com/colors/colors_picker.asp)
          - [pick an image color](https://imagecolorpicker.com/)
-      
-      - Validators and Checkers
+
+   - Validators and Checkers
          - [Contrast Checker](https://pickcoloronline.com/contrast-checker/)
          - [Link Checker](https://validator.w3.org/checklink)
          - [Accessibility Checker](https://www.accessibilitychecker.org/)
