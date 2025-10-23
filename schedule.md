@@ -25,7 +25,7 @@
    <br>
    
    :book: *Material* 
-      - Color
+   - Color
          - Choose a color palette and save the link to it on your home page for now
          - [coolors](https://coolors.co/)
          - [pick color online](https://pickcoloronline.com/)
@@ -40,7 +40,7 @@
          - [HTML Validator](https://validator.w3.org/)
          - [CSS Validator](https://jigsaw.w3.org/css-validator/)
 
-      - Past Student
+   - Past Student
          - [Alex](https://alexjwilcox.com/projects)
          - [Mike](https://www.michaelrconnelly.com/)
          - [Holloway](https://whodja.github.io/portfolio/projects.html)
