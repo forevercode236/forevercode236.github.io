@@ -1,6 +1,6 @@
 # Weekly Schedule
 <details>
-   <summary> October 20 - 24 </summary>
+   <summary> Week 10 - October 20 - 24 </summary>
    <br>
 
    **Tuesday 21st**
@@ -21,32 +21,56 @@
         - Projects or Work Page - Due November 13th (*during lab*)
         - Contact Page - Due November 18th (*during lab*)
         - Final Project Presentation - December 2nd (*entire class*)
-   - Test 2 - November 20th
+   - Test 2 - November 25th
    <br>
    
    :book: *Material* 
-   - [ ] New HTML
-   - [ ] New CSS
-   - [ ] [Zen Garden](https://csszengarden.com/)
-   - [ ] Validators
+      - Color
+         - Choose a color palette and save the link to it on your home page for now
+         - [coolors](https://coolors.co/)
+         - [pick color online](https://pickcoloronline.com/)
+         - [w3schools Color Tutorial](https://www.w3schools.com/colors/default.asp)
+         - [w3schools Color Picker](https://www.w3schools.com/colors/colors_picker.asp)
+         - [pick an image color](https://imagecolorpicker.com/)
+      
+      - Validators and Checkers
+         - [Contrast Checker](https://pickcoloronline.com/contrast-checker/)
+         - [Link Checker](https://validator.w3.org/checklink)
+         - [Accessibility Checker](https://www.accessibilitychecker.org/)
+         - [HTML Validator](https://validator.w3.org/)
+         - [CSS Validator](https://jigsaw.w3.org/css-validator/)
 
-   *Resources*
-      [https://csszengarden.com/](https://csszengarden.com/
+      - Past Student
+         - [Alex](https://alexjwilcox.com/projects)
+         - [Mike](https://www.michaelrconnelly.com/)
+         - [Holloway](https://whodja.github.io/portfolio/projects.html)
+         - [Alina](https://azimavaya.github.io/portfolio/projects.html)
+         - [Liza](https://ynikitsenka.github.io/portfolio/index.html)
+         - [Sean](https://sean-harder.github.io/)
+         - [Jake](https://jfiorill.github.io/portfolio/)
+         - [Abbey](https://ahyatt2003.github.io/portfolio/index3.html)
+         - [Maddie](https://maddiephelps.github.io/portfolio/projects.html)
+   
+*Resources*
+      
 </details>
 
 <details>
-   <summary> October 27 - 31 </summary>
+   <summary> Week 11 - October 27 - 31 </summary>
    <br>
    
    **Tuesday 28th**
-   1. Topic 1
-   2. Topic 2
-   3. Topic 3
+   - New HTML
+   - New CSS
+   - [Zen Garden](https://csszengarden.com/)
       
    **Thursday 30th**
    1. Topic 1
    2. Topic 2
    3. Topic 3
+
+**Resources**
+- [https://csszengarden.com/](https://csszengarden.com/)
 </details>
 
 <details>
