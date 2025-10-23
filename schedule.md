@@ -2,26 +2,36 @@
 <details>
    <summary> October 20 - 24 </summary>
    <br>
-   
+
    **Tuesday 21st**
-   - [ ] Portfolio Website
-   - [ ] Pages
-   - [ ] File and Folder Organization
+   - Portfolio Website
+   - Pages
+   - File and Folder Organization
    <br>
-    
+   
    **Thursday 23rd**
-     *Housekeeping*
-    
-    - [ ] Last day to drop with a grade of W (Friday Oct, 24th)
-    - [ ] Dates for each section of the final project to be complete
-    - [ ] Test 2 - coming up
-    
+   
+   :broom: *Housekeeping* :broom:
+   - Last day to drop with a grade of W (Friday Oct, 24th)
+   - Dates for each section of the final project to be complete
+        - Organization - Due Oct 28th (*during lab*)
+        - Home Page - Due October 30th (*during lab*)
+        - About Page - Due November 4th (*during lab*)
+        - Resume Page - Due November 6th (*during lab*)
+        - Projects or Work Page - Due November 13th (*during lab*)
+        - Contact Page - Due November 18th (*during lab*)
+        - Final Project Presentation - December 2nd (*entire class*)
+   - Test 2 - November 20th
    <br>
    
    :book: *Material* 
    - [ ] New HTML
    - [ ] New CSS
+   - [ ] [Zen Garden](https://csszengarden.com/)
    - [ ] Validators
+
+   *Resources*
+      [https://csszengarden.com/](https://csszengarden.com/
 </details>
 
 <details>
