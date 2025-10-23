@@ -14,14 +14,17 @@
    :broom: *Housekeeping* :broom:
    - Last day to drop with a grade of W (Friday Oct, 24th)
    - Dates for each section of the final project to be complete
-        - Organization - Due Oct 28th (*during lab*)
-        - Home Page - Due October 30th (*during lab*)
-        - About Page - Due November 4th (*during lab*)
-        - Resume Page - Due November 6th (*during lab*)
-        - Projects or Work Page - Due November 13th (*during lab*)
-        - Contact Page - Due November 18th (*during lab*)
-        - Final Project Presentation - December 2nd (*entire class*)
-   - Test 2 - November 25th
+        | What | Due | Grading Occurs
+        | :--- | :---: | ---: |
+        | Organization | Oct 28th | during lab |
+        | Home Page | Oct 30th | during lab |
+        | About Page | Nov 4th | during lab |
+        | Resume Page | Nov 6th | during lab |
+        | Projects/Work Page | Nov 13th | during lab |
+        | Contact Page | Nov 18th | during lab |
+        | Test 2 | Nov 25th | during class |
+        | Final Project Presntation | Dec 2nd | entire class |
+        
    <br>
    
    :book: *Material* 
