@@ -4,7 +4,7 @@ h1{
 
 table, th, td{
     text-align: center;
-    border-bottom: 1px solid black;
+    border: 1px solid black;
     border-collapse: collapse;
     padding: 5px;
 }
@@ -16,6 +16,7 @@ th{
 
 td{
     font-family: Georgia, 'Times New Roman', Times, serif;
+
 }
 
 tr:nth-child(odd){
