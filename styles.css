@@ -2,12 +2,12 @@ h1{
     color: darkblue;
 }
 
-th{
+th, td{
     text-align: center;
     font-weight: bold;
 
 }
 
-table, th, tr, td {
+th, td {
     border: 1px solid black;
 }
