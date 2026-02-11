@@ -18,10 +18,7 @@ td{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-tr:nth-child(even){
-    background-color: honeydew;
-}
-
 tr:nth-child(odd){
-    background-color: lightslategray;
+    background-color: gray;
+    color: white;
 }
