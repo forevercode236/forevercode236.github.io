@@ -5,9 +5,7 @@ h1{
 th, td{
     text-align: center;
     font-weight: bold;
-
-}
-
-th, td {
     border: 1px solid black;
+    margin: 0;
+
 }
